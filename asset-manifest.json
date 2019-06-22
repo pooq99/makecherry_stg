@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "https://stg.smartconsumer.kr/static/css/main.ef304509.chunk.css",
-    "main.js": "https://stg.smartconsumer.kr/static/js/main.b8590239.chunk.js",
-    "main.js.map": "https://stg.smartconsumer.kr/static/js/main.b8590239.chunk.js.map",
-    "runtime~main.js": "https://stg.smartconsumer.kr/static/js/runtime~main.3526fdae.js",
-    "runtime~main.js.map": "https://stg.smartconsumer.kr/static/js/runtime~main.3526fdae.js.map",
-    "static/css/2.3c1ddb0a.chunk.css": "https://stg.smartconsumer.kr/static/css/2.3c1ddb0a.chunk.css",
-    "static/js/2.1205d0f0.chunk.js": "https://stg.smartconsumer.kr/static/js/2.1205d0f0.chunk.js",
-    "static/js/2.1205d0f0.chunk.js.map": "https://stg.smartconsumer.kr/static/js/2.1205d0f0.chunk.js.map",
-    "index.html": "https://stg.smartconsumer.kr/index.html",
-    "precache-manifest.23881adfa8fe8f927f004b9d2fcb7589.js": "https://stg.smartconsumer.kr/precache-manifest.23881adfa8fe8f927f004b9d2fcb7589.js",
-    "service-worker.js": "https://stg.smartconsumer.kr/service-worker.js",
-    "static/css/2.3c1ddb0a.chunk.css.map": "https://stg.smartconsumer.kr/static/css/2.3c1ddb0a.chunk.css.map",
-    "static/css/main.ef304509.chunk.css.map": "https://stg.smartconsumer.kr/static/css/main.ef304509.chunk.css.map"
+    "main.css": "https://stg.makecherry.com/static/css/main.ef304509.chunk.css",
+    "main.js": "https://stg.makecherry.com/static/js/main.52abf321.chunk.js",
+    "main.js.map": "https://stg.makecherry.com/static/js/main.52abf321.chunk.js.map",
+    "runtime~main.js": "https://stg.makecherry.com/static/js/runtime~main.bd650e60.js",
+    "runtime~main.js.map": "https://stg.makecherry.com/static/js/runtime~main.bd650e60.js.map",
+    "static/css/2.3c1ddb0a.chunk.css": "https://stg.makecherry.com/static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.1205d0f0.chunk.js": "https://stg.makecherry.com/static/js/2.1205d0f0.chunk.js",
+    "static/js/2.1205d0f0.chunk.js.map": "https://stg.makecherry.com/static/js/2.1205d0f0.chunk.js.map",
+    "index.html": "https://stg.makecherry.com/index.html",
+    "precache-manifest.65c1cce594753b7be413cf57ec6a605f.js": "https://stg.makecherry.com/precache-manifest.65c1cce594753b7be413cf57ec6a605f.js",
+    "service-worker.js": "https://stg.makecherry.com/service-worker.js",
+    "static/css/2.3c1ddb0a.chunk.css.map": "https://stg.makecherry.com/static/css/2.3c1ddb0a.chunk.css.map",
+    "static/css/main.ef304509.chunk.css.map": "https://stg.makecherry.com/static/css/main.ef304509.chunk.css.map"
   }
 }
