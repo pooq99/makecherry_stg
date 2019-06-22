@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f76ee67e348b4b232c00d8f25f4c32b2",
+    "revision": "67a84b5d592c262361b36883b328551c",
     "url": "https://stg.makecherry.com/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://stg.makecherry.com/static/css/2.3c1ddb0a.chunk.css"
   },
   {
-    "revision": "013af50e8e0271a6db1a",
+    "revision": "272e4c0ac46bd540ffb1",
     "url": "https://stg.makecherry.com/static/css/main.6816c300.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://stg.makecherry.com/static/js/2.1205d0f0.chunk.js"
   },
   {
-    "revision": "013af50e8e0271a6db1a",
-    "url": "https://stg.makecherry.com/static/js/main.b19f4f45.chunk.js"
+    "revision": "272e4c0ac46bd540ffb1",
+    "url": "https://stg.makecherry.com/static/js/main.1dd30e15.chunk.js"
   },
   {
     "revision": "4852a2544ff1b14c6ee4",
