@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "https://stg.makecherry.com/static/css/main.6816c300.chunk.css",
-    "main.js": "https://stg.makecherry.com/static/js/main.c9f0afb6.chunk.js",
-    "main.js.map": "https://stg.makecherry.com/static/js/main.c9f0afb6.chunk.js.map",
+    "main.css": "https://stg.makecherry.com/static/css/main.f48d1717.chunk.css",
+    "main.js": "https://stg.makecherry.com/static/js/main.b3f96dfe.chunk.js",
+    "main.js.map": "https://stg.makecherry.com/static/js/main.b3f96dfe.chunk.js.map",
     "runtime~main.js": "https://stg.makecherry.com/static/js/runtime~main.bd650e60.js",
     "runtime~main.js.map": "https://stg.makecherry.com/static/js/runtime~main.bd650e60.js.map",
     "static/css/2.3c1ddb0a.chunk.css": "https://stg.makecherry.com/static/css/2.3c1ddb0a.chunk.css",
     "static/js/2.e1936a85.chunk.js": "https://stg.makecherry.com/static/js/2.e1936a85.chunk.js",
     "static/js/2.e1936a85.chunk.js.map": "https://stg.makecherry.com/static/js/2.e1936a85.chunk.js.map",
     "index.html": "https://stg.makecherry.com/index.html",
-    "precache-manifest.fc91575d3463c59127b47e2dbb9f650e.js": "https://stg.makecherry.com/precache-manifest.fc91575d3463c59127b47e2dbb9f650e.js",
+    "precache-manifest.fdb489499261dceb64e6a646029bdbc3.js": "https://stg.makecherry.com/precache-manifest.fdb489499261dceb64e6a646029bdbc3.js",
     "service-worker.js": "https://stg.makecherry.com/service-worker.js",
     "static/css/2.3c1ddb0a.chunk.css.map": "https://stg.makecherry.com/static/css/2.3c1ddb0a.chunk.css.map",
-    "static/css/main.6816c300.chunk.css.map": "https://stg.makecherry.com/static/css/main.6816c300.chunk.css.map"
+    "static/css/main.f48d1717.chunk.css.map": "https://stg.makecherry.com/static/css/main.f48d1717.chunk.css.map"
   }
 }
